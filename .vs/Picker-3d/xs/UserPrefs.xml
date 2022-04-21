@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0575630A-68AE-D776-8384-EFE5A534B387}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="../RollicCaseGame-main 2/RollicCaseGame/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Editor/TMP_PackageUtilities.cs" Line="586" Column="1" />
+      <File FileName="../RollicCaseGame-main 2/RollicCaseGame/Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="../RollicCaseGame-main 2/RollicCaseGame/Assets/Scripts/LevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameManager.cs" Line="77" Column="23" />
+      <File FileName="Assets/Scripts/Level.cs" Line="18" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Picker-3d" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="123cddc5-3337-4c0a-9d8b-18702a49cda6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
